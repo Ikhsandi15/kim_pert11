@@ -1,0 +1,16 @@
+<?xml version="0.1" encoding='UTF-8'?>
+
+<root>
+    <kelas>
+        <id>01</id>
+        <aktivitas>Belajar</aktivitas>
+        <tanggal>22 Januari 2023</tanggal>
+        <siswa>Nisa</siswa>
+    </kelas>
+    <kelas>
+        <id>02</id>
+        <aktivitas>Coding</aktivitas>
+        <tanggal>22 Januari 2023</tanggal>
+        <siswa>Khoirun</siswa>
+    </kelas>
+</root>
